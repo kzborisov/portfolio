@@ -15,11 +15,17 @@ const About = () => {
         About
       </h2>
       <p className='w-full'>
-        Hi There, I am Kristian Borisov, a web developer with a passion.....
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores tempore
-        dolor rerum beatae saepe voluptatum quo porro cupiditate, ratione dicta
-        ut aliquid nisi laudantium tenetur, eos perferendis architecto fuga ex
-        alias neque unde! Adipisci, iusto quo quasi repudiandae similique ipsum!
+        Hi There, I am Kristian Borisov, a passionate and creative web developer
+        with a strong flair for crafting dynamic and visually appealing digital
+        experiences. With 5 years of experience in the industry, I've had the
+        privilege of working on a diverse range of projects.
+        <div className='my-2' />
+        Collaboration is at the heart of my approach. I believe that the best
+        results come from a synergy of skills and ideas, and I enjoy working
+        closely with designers, content creators, and clients to bring visions
+        to life. From conceptualization to deployment, I'm committed to
+        delivering projects that are not only functional but also aesthetically
+        pleasing, user-friendly, and optimized for performance.
       </p>
 
       <div className='flex flex-col lg:flex-row justify-center lg:justify-start items-center flex-wrap gap-10 mt-10'>
