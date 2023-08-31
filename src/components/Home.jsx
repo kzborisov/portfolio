@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <section
       id='hero'
-      className='text-white p-4 md:p-10 md:flex items-center justify-center md:justify-start mt-[7rem]'
+      className='text-white p-4 md:p-10 md:flex items-center justify-center md:justify-start md:mt-[7rem]'
     >
       <img
         src={ProfilePic}
