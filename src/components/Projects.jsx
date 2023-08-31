@@ -17,7 +17,7 @@ const Projects = () => {
           ))
         ) : (
           <h4 className='text-2xl text-primary opacity-90 font-semibold'>
-            Comming soon! Please be patient. <br /> Sorry for the disurbance
+            Comming soon! Please be patient. <br /> Sorry for the disturbance
           </h4>
         )}
       </div>

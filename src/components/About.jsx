@@ -2,6 +2,8 @@ import { FaReact } from "react-icons/fa";
 import HtmlLogo from "../assets/html-logo.png";
 import CssLogo from "../assets/css3-logo.png";
 import JsLogo from "../assets/js-logo.png";
+import CanvaLogo from "../assets/canva-logo.png";
+import ReactLogo from "../assets/react-logo.png";
 
 const About = () => {
   return (
@@ -21,10 +23,19 @@ const About = () => {
       </p>
 
       <div className='flex flex-col lg:flex-row justify-center lg:justify-start items-center flex-wrap gap-10 mt-10'>
-        <FaReact size={180} className='text-primary w-[180px] md:w-[240px]' />
-        <img src={JsLogo} alt='js logo' className='w-[180px] md:w-[240px]' />
-        <img src={HtmlLogo} alt='html log' className='w-[180px] md:w-[240px]' />
-        <img src={CssLogo} alt='css logo' className='w-[180px] md:w-[240px]' />
+        <img
+          src={ReactLogo}
+          alt='react logo'
+          className='h-[180px] md:h-[240px]'
+        />
+        <img src={JsLogo} alt='js logo' className='h-[180px] md:h-[240px]' />
+        <img src={HtmlLogo} alt='html log' className='h-[180px] md:h-[240px]' />
+        <img src={CssLogo} alt='css logo' className='h-[180px] md:h-[240px]' />
+        <img
+          src={CanvaLogo}
+          alt='canva logo'
+          className='h-[180px] md:h-[240px]'
+        />
       </div>
     </section>
   );
