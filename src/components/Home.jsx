@@ -14,8 +14,8 @@ const Home = () => {
       <div className='flex flex-col justify-center items-start gap-4 md:gap-6 p-4'>
         <h1 className='text-left text-6xl font-semibold'>Kristian Borisov</h1>
         <p className='text-left text-l md:text-2xl font-medium leading-8'>
-          Trasforming ideas into functional, elegant solutions - let`s
-          collaborate
+          Crafting captivating web experiences that merge design and technology
+          into digital magic - let's collaborate
         </p>
         <div className='flex w-full flex-col items-center justify-center md:justify-start gap-4 sm:flex-row'>
           <a
